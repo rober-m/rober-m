@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Robertino Martinez. Engineer and entrepreneur looking to make a living solving interesting problems while helping people.
-I'm an educator at [IOG/IOHK](https://iog.io) and founder of several small companies.
+I'm Robertino Martinez. Engineer and entrepreneur looking to make a living solving interesting problems while helping people. Founder of several companies and currently a Product Manager of Developer Experience at [IOG/IOHK](https://iog.io).
 
 The quickest way to reach me is through: 
 <div>
@@ -12,12 +11,13 @@ The quickest way to reach me is through:
 ### Programming-related technologies
 
 ##### Languages
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-5e5086?style=flat&logo=haskell&logoColor=white)
+![Nix](https://img.shields.io/badge/nix-5277C3?style=flat&logo=nixos&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Rust](https://img.shields.io/badge/rust-B7410E.svg?style=flat&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 
