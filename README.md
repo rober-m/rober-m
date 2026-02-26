@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Robertino Martinez. Engineer and entrepreneur looking to make a living solving interesting problems while helping people. Founder of several companies and currently a Product Manager of Developer Experience at [IOG/IOHK](https://iog.io).
+I'm Robertino Martinez. Engineer and entrepreneur looking to make a living solving interesting problems while helping people. Founder of several companies and currently the Product Manager of Developer Experience at [IOG/IOHK](https://iog.io).
 
 The quickest way to reach me is through: 
 <div>
